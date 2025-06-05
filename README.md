@@ -81,10 +81,10 @@ If you find our work useful, please consider citing:
 ## 🙏 Acknowledgments
 
 [![ms-swift](https://img.shields.io/badge/Base%20Code-ms--swift-blue)](https://github.com/modelscope/ms-swift)
-[![APE](https://img.shields.io/badge/Inspired%20by-APE-red)](https://arxiv.org/abs/2302.02683)
-[![EvoPrompt](https://img.shields.io/badge/Inspired%20by-EvoPrompt-orange)](https://arxiv.org/abs/2305.19118)
-[![APO](https://img.shields.io/badge/Inspired%20by-APO-yellow)](https://arxiv.org/abs/2310.08491)
+[![APE](https://img.shields.io/badge/Inspired%20by-APE-red)](https://arxiv.org/abs/2211.01910)
+[![EvoPrompt](https://img.shields.io/badge/Inspired%20by-EvoPrompt-orange)](https://arxiv.org/abs/2309.08532)
+[![APO](https://img.shields.io/badge/Inspired%20by-APO-yellow)](https://arxiv.org/abs/2305.03495)
 
 This work builds on the [**ms-swift**](https://github.com/modelscope/ms-swift) framework.  
-We thank the authors of [**APE**](https://arxiv.org/abs/2302.02683), [**EvoPrompt**](https://arxiv.org/abs/2305.19118), and [**APO**](https://arxiv.org/abs/2310.08491) for their inspiring contributions to the field of automated prompt generation.
+We thank the authors of [**APE**](https://arxiv.org/abs/2211.01910), [**EvoPrompt**](https://arxiv.org/abs/2309.08532), and [**APO**](https://arxiv.org/abs/2305.03495) for their inspiring contributions to the field of automated prompt generation.
 
